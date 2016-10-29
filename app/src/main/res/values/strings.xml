@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DragonboardTest</string>
+    <string name="txt_dbrd">I am the dragonboard :Z</string>
 </resources>
